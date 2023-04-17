@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navaneethku
 - 👀 I’m interested in App Development
-- 🌱 I’m currently working on React Native
+- 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on App Projects
 - 📫 How to reach me linkedin.com/navaneethku
 
