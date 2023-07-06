@@ -2,10 +2,11 @@
 - 👀 I’m an App Developer
 - 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on App Projects
-- 📫 How to reach me linkedin.com/navaneethku<br>
+- 📫 How to reach me linkedin.com/navaneethku
+  
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=navaneethku&hide_rank=true&show_icons=true&theme=dracula" />
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethku&layout=donut&theme=dracula&hide=makefile,cmake" />
-<p></p>
+  <img align="left" width="44.57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethku&layout=donut&theme=dracula&hide=makefile,cmake" />
+                                          
 <p align="center">
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
