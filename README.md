@@ -22,6 +22,7 @@
 
 # My Blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Flutter](https://medium.com/@navaneethku/getting-started-with-flutter-4786109cb25a?source=rss-c599887b0c63------2)
 <!-- BLOG-POST-LIST:END -->
 
 
