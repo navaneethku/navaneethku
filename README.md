@@ -1,4 +1,10 @@
-# 👋 Hi, I’m Navaneeth K U
+<h1 align="center">👋 Hi, I’m Navaneeth K U</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navaneethku&label=Profile%20views&color=282a36&style=for-the-badge" alt="navaneethku" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/navaneethku/navaneethku/assets/88205492/87004472-b2e9-4a81-96df-224808f220ad" />
+
+<p align="left"> <a href="https://linkedin.com/in/navaneethku" target="blank"><img src="https://img.shields.io/twitter/follow/navaneethku?logo=linkedin&style=for-the-badge" alt="navaneethku" /></a> </p>
+
 - 👀 I’m an App Developer
 - 💞️ I’m looking to collaborate on App Projects
 - 💬 Ask me about **Flutter, Dart, Python, Firebase**
@@ -8,16 +14,15 @@
 
 - ⚡ Fun fact **I like to watch tech videos :)**
                                                                                  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=navaneethku&hide_rank=true&show_icons=true&theme=dracula" />
+<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=navaneethku&hide_rank=true&show_icons=true&theme=dracula" /></p>
 <img align="right" width="44.57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethku&layout=donut&theme=dracula&hide=makefile,cmake" />
                                           
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaneethku&theme=dracula&column=4&margin-w=15&margin-h=15" alt="navaneethku" /></a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=navaneethku&theme=dracula)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navaneethku&label=Profile%20views&color=282a36&style=for-the-badge" alt="navaneethku" /> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/navaneethku" target="blank"><img src="https://img.shields.io/twitter/follow/navaneethku?logo=linkedin&style=for-the-badge" alt="navaneethku" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaneethku&theme=dracula" alt="navaneethku" /></a> </p>
+
 
 
 
