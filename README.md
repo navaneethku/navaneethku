@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navaneethku&label=Profile%20views&color=282a36&style=for-the-badge" alt="navaneethku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/navaneethku/navaneethku/assets/88205492/87004472-b2e9-4a81-96df-224808f220ad" />
 
-<p align="left"> <a href="https://linkedin.com/in/navaneethku" target="blank"><img src="https://img.shields.io/twitter/follow/navaneethku?logo=linkedin&style=for-the-badge" alt="navaneethku" /></a> </p>
-
 - 👀 I’m an App Developer
 - 💞️ I’m looking to collaborate on App Projects
 - 💬 Ask me about **Flutter, Dart, Python, Firebase**
