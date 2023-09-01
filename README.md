@@ -8,7 +8,7 @@
 - 💬 Ask me about **Flutter, Dart, Python, Firebase**
 - 📫 How to reach me **navaneethku1729@gmail.com**
 - 🌱 I’m currently learning **CP using Python**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1agePFi-7PlpQ1Ij2iHlHfg8dBNk7hDLP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r-v6uKuKddzcZiCndZBeWMbjnJEi0izW/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to watch tech videos :)**
                                                                                  
